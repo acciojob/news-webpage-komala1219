@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 
-h1{
+header{
 	background-color:#011e29;
 	text-align:center;
 	color:white;
@@ -42,6 +42,7 @@ h2{
 	padding:20pxl;
 	margin-left:650px;
 	margin-top:-235px;
+	text-align:center;
 }
 	
 
